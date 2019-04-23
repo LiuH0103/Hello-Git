@@ -2,6 +2,7 @@ package com.atguigu.git;
 class HelloGit{
 	public static void main (String[]args){
 		System.out.println("Hello Git!!!");
+		//删库跑路
 		System.out.println("你个骚猪!!!");
 		System.out.println("6666666\n"
 				+ "Thank you!\n" + 
